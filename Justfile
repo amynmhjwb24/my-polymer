@@ -116,7 +116,6 @@ do-it:
 clean:
     echo "Cleaning up environment..."
     rm -rf artifacts cache
-    forge clean
 
 # Fully clean the environment by removing the artifacts, the dependencies, and cache folders and running the forge clean-all command
 # Usage: just clean-all
