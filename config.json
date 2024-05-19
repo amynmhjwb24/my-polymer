@@ -6,7 +6,6 @@
   },
   "createChannel": {
     "srcChain": "optimism",
-    "srcAddr": "0x1234567890AbCdEf1234567890aBcDeF12345678",
     "dstChain": "base",
     "dstAddr": "0x1234567890AbCdEf1234567890aBcDeF12345678",
     "version": "1.0",
