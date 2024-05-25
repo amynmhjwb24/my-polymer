@@ -1,4 +1,3 @@
-# Install dependencies
 install:
     echo "Installing dependencies"
     npm install
