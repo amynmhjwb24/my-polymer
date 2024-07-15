@@ -1,5 +1,5 @@
 {
-  "proofsEnabled": false,
+  "proofsEnabled": false
   "deploy": {
     "optimism": "XCounter",
     "base": "XCounter"
